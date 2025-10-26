@@ -9,7 +9,7 @@
     "test": "echo \"Backend tests passed\""
   },
   "dependencies": {
-    "express": "^4.18.0"
+    "express": "^4.17.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.0"
